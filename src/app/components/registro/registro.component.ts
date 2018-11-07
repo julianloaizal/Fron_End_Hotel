@@ -13,3 +13,6 @@ export class RegistroComponent implements OnInit {
   }
 
 }
+interface persona{
+  
+}
